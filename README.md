@@ -1,5 +1,5 @@
 # Github-Pages
-A github pages site of a bunch of stuff I have done. Things such as Certifcation notes and advice, Tryhackme and Hackthebox writeups, coding projects and more will be here
+A github pages site of a bunch of stuff I have done. Things such as Certifcation notes and advice, Tryhackme and Hackthebox writeups, coding projects and more will be here. This is very much a work in progress and some links may lead to unfinished pages or nothing at all. 
 
 ## Certifcations
 * [Comptia N10-007 Network+ Notes](https://hironewf.github.io/Network-Plus-Notes/)
